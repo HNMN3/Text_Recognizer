@@ -2,7 +2,7 @@
 
 A Machine Learning project which recognizes text from image using OpenCV framework.
 It passes the image through various object recognition steps like Normalization, Thresholding, Line Segmentation,
-Character Segmentation etc., and then uses Support Vector Classifier to classify the image as on of the character. 
+Character Segmentation etc. and then uses Support Vector Classifier to classify the image as one of the character. 
 
 ## Getting Started
 This Project can be used via two files called main.py and Classify.py.
