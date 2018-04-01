@@ -12,6 +12,9 @@ them to Classify.py to classify the character, whereas Classify.py takes a singl
 --image_path command line argument and classify the character in it.
 
 ## Usage
+**Note**: Before running any of the following files you need to generate prerequisites by executing 
+generate_prerequisite_files.py file.
+
 Using main.py: 
 
 ```python main.py --image_path img.jpg --output_file out.txt```
